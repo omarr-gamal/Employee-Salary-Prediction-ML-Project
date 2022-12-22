@@ -61,7 +61,7 @@ age,work-class,work-fnl,education,education-num,marital-status,position,relation
 37, Local-gov,48976, Bachelors,13, Never-married, Prof-specialty, Not-in-family, White, Female,4865,0,45, United-States
 29, State-gov,243875, Assoc-voc,11, Divorced, Adm-clerical, Own-child, White, Male,0,0,40, United-States
 34, Private,554206, HS-grad,9, Separated, Transport-moving, Not-in-family, Black, Male,0,0,20, United-States
-36, Private,361888, Some-college,10, Married-civ-spouse, Craft-repair, Husband, White, Male,0,0,40, ?
+36, Private,361888, Some-college,10, Married-civ-spouse, Craft-repair, Husband, White, Male,0,0,40, Holand-Netherlands
 37, Self-emp-not-inc,205359, Some-college,10, Married-civ-spouse, Exec-managerial, Wife, White, Female,0,0,15, United-States
 47, State-gov,167281, Bachelors,13, Married-civ-spouse, Other-service, Husband, White, Male,0,0,40, United-States
 22, Private,35663, HS-grad,9, Never-married, Other-service, Not-in-family, White, Female,0,0,40, United-States
